@@ -433,7 +433,7 @@ const App = () => {
   const handleGenerateSchedule = async (tasks: string) => {
     setCurrentStep("loading");
     try {
-      const response = await fetch("http://localhost:8080/chat-api", {
+      const response = await fetch("https://planmyday.onrender.com/chat-api", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ timeRange, tasks }),

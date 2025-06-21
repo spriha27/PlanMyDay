@@ -405,7 +405,7 @@ const ExportOptions = ({
           onClick={handleDownloadICal}
           className="w-full bg-purple-600 text-white px-6 py-4 rounded-lg font-semibold hover:bg-purple-500 flex items-center justify-center text-lg"
         >
-          <Download className="mr-2 h-5 w-5" /> Download iCal File
+          <Download className="mr-2 h-5 w-5" /> Download .ics File
         </button>
         <button
           onClick={onStartOver}

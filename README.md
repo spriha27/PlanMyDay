@@ -6,6 +6,8 @@
 
 **PlanMyDay** is a full-stack web application that acts as an intelligent, AI-powered daily schedule planner. It provides a guided, multi-step user experience to generate, refine, and finalize a complete daily schedule. Users specify a time range and list their tasks, and the AI constructs a detailed, logical plan that can be edited and exported.
 
+This project was born out of my need to be able to schedule my day around my classes, tech networking events, internship, my office hours as part of my job for being a course manager for undergrads, my assignments, capstone project, homework etc., etc. This tool helped me to visualise my day and decide my priorities based on the commitments I had for the day.
+
 **Live Application:** [**https://planmyday-z9r3.onrender.com/**](https://planmyday-z9r3.onrender.com/) *(Note: Free-tier backend may take 30-60 seconds to "wake up" on the first request.)*
 
 ---
